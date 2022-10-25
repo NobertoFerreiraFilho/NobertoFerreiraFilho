@@ -1,7 +1,10 @@
 ### Hi there 👋 
 ![Views Counter](https://komarev.com/ghpvc/?username=NobertoFerreiraFilho)
 
-
+🖌 **LANGUAGE** <br />
+![Portuguese](https://img.shields.io/badge/-Portuguese-green)
+![English](https://img.shields.io/badge/English-blue)
+![Javascript](https://img.shields.io/badge/JavaScript-black?logo=Javascript)
 
 
 - 🔭 I’m currently working on improving my coding skills!
