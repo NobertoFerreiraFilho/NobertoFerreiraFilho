@@ -1,4 +1,7 @@
-## Hi there 👋 
+## Hi there 👋 I'm Noberto Ferreira filho!
+
+Frontend Developer - Loading! Lol
+
 ![Views Counter](https://komarev.com/ghpvc/?username=NobertoFerreiraFilho)
 
 🖌 **LANGUAGE** <br />
