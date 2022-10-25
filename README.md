@@ -19,7 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/ES6,%20HTML5,%20CSS3-black?logo=javascript)
 ![CSS](https://img.shields.io/badge/CSS-black?logo=sass)
 ![Styled Components](https://img.shields.io/badge/Styled%20Components-black?logo=styled-components)
-![React-Router](https://img.shields.io/badge/React%20Router-black?logo=styled-components)
+![React-Router](https://img.shields.io/badge/React%20Router-black?logo=react-router)
 
 🛠 **TOOLS** <br />
 ![VsCode](https://img.shields.io/badge/VSCode-black?logo=visual-studio-code)
