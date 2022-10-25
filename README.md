@@ -1,4 +1,4 @@
-### Hi there 👋 
+## Hi there 👋 
 ![Views Counter](https://komarev.com/ghpvc/?username=NobertoFerreiraFilho)
 
 🖌 **LANGUAGE** <br />
@@ -26,16 +26,14 @@
 ![Netlify](https://img.shields.io/badge/Netlify-black?logo=netlify)
 ![Git](https://img.shields.io/badge/Git-black?logo=git) 
 
-My Projects:
+###**My Projects:**
 <table>
   <tr>
     <td><a href="https://github.com/NobertoFerreiraFilho/PokedexNFF" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/PokedexNFF/blob/master/src/image/Pokedex-Homepage.gif" width=240></a></td>
-<!--    <td><a href="" target="_blank"><img src="" width=240></a></td>
-    <td><a href="" target="_blank"><img src="" width=240></a></td>
--->
   </tr>
-
-  ### 📈 How about some stats
+ </table>
+<br/>
+### 📈 How about some stats
 <div align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nobertoferreirafilho&show_icons=true" alt="nobertoferreirafilho" /></div>
 <br/>
   
