@@ -26,14 +26,14 @@
 ![Netlify](https://img.shields.io/badge/Netlify-black?logo=netlify)
 ![Git](https://img.shields.io/badge/Git-black?logo=git) 
 
-###**My Projects:**
+### **My Projects:**
 <table>
   <tr>
     <td><a href="https://github.com/NobertoFerreiraFilho/PokedexNFF" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/PokedexNFF/blob/master/src/image/Pokedex-Homepage.gif" width=240></a></td>
   </tr>
  </table>
 <br/>
-### 📈 How about some stats
+###  📈 How about some stats
 <div align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nobertoferreirafilho&show_icons=true" alt="nobertoferreirafilho" /></div>
 <br/>
   
