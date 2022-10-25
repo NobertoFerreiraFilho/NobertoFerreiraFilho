@@ -25,6 +25,7 @@ Frontend Developer - Loading! Lol
 ![Styled Components](https://img.shields.io/badge/Styled%20Components-black?logo=styled-components)
 ![React-Router](https://img.shields.io/badge/React%20Router-black?logo=react-router)
 ![Font-Awesome](https://img.shields.io/badge/Font%20awesome-black?logo=font-awesome)
+![Flex-Box](https://img.shields.io/badge/flex%20box-black?logo=flex-box)
 
 🛠 **TOOLS** <br />
 ![VsCode](https://img.shields.io/badge/VSCode-black?logo=visual-studio-code)
