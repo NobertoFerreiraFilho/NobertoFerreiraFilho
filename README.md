@@ -10,11 +10,13 @@
 - 🤔 I’m looking for help with React.Js good practices. So, feel free to explore my projects and tell what I could've done better!
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/nobertofilho)**
 
+
 🌱 **FRONT-END** <br />
 ![ReactJs](https://img.shields.io/badge/ReactJs-black?logo=react)
 ![JavaScript](https://img.shields.io/badge/ES6,%20HTML5,%20CSS3-black?logo=javascript)
 ![CSS](https://img.shields.io/badge/CSS-black?logo=sass)
 ![Styled Components](https://img.shields.io/badge/Styled%20Components-black?logo=styled-components)
+![React-Router](https://img.shields.io/badge/React%20Router-black?logo=styled-components)
 
 🛠 **TOOLS** <br />
 ![VsCode](https://img.shields.io/badge/VSCode-black?logo=visual-studio-code)
