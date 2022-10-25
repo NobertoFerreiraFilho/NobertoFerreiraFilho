@@ -16,9 +16,9 @@
 
 🌱 **FRONT-END** <br />
 ![ReactJs](https://img.shields.io/badge/ReactJs-black?logo=react)
-![JavaScript](https://img.shields.io/badge/ES6,%20HTML5,%20CSS3-black?logo=javascript)
-![CSS](https://img.shields.io/badge/CSS-black?logo=sass)
-![HTML](https://img.shields.io/badge/HTML-black?logo=HTML)
+![JavaScript](https://img.shields.io/badge/Javascript-black?logo=javascript)
+![CSS3](https://img.shields.io/badge/CSS3-black?logo=CSS3)
+![HTML5](https://img.shields.io/badge/HTML5-black?logo=HTML5)
 ![Styled Components](https://img.shields.io/badge/Styled%20Components-black?logo=styled-components)
 ![React-Router](https://img.shields.io/badge/React%20Router-black?logo=react-router)
 ![Font-Awesome](https://img.shields.io/badge/Font%20awesome-black?logo=font-awesome)
