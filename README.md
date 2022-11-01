@@ -37,6 +37,7 @@ Frontend Developer - Loading! Lol
   <tr>
     <td><a href="https://github.com/NobertoFerreiraFilho/PokedexNFF" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/PokedexNFF/blob/master/src/image/Pokedex-Homepage.gif" width=240></a></td>
     <td><a href="https://github.com/NobertoFerreiraFilho/Responsive-React-Navbar" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/Responsive-React-Navbar/blob/main/public/NavBar.gif" width=240></a></td>
+    <td><a href="https://github.com/NobertoFerreiraFilho/BarberShopWebsite" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/BarberShopWebsite/blob/master/images/barbearia-alura.gif" width=240></a></td>
   </tr>
  </table>
 <br/>
