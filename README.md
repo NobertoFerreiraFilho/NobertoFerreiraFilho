@@ -41,8 +41,9 @@ Frontend Developer - Loading! Lol
   </tr>
  </table>
 <br/>
-###  📈 How about some stats
-<div align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nobertoferreirafilho&show_icons=true" alt="nobertoferreirafilho" /></div>
+
+###  **📈 How about some stats**
+<div align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nobertoferreirafilho&show_icons=true&theme=merko" alt="nobertoferreirafilho" /></div>
 <br/>
   
   
