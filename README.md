@@ -33,6 +33,7 @@ Frontend Developer - Loading! Lol
 ![Git](https://img.shields.io/badge/Git-black?logo=git) 
 
 ### **My Projects:**
+<div align="center">
 <table>
   <tr>
     <td><a href="https://github.com/NobertoFerreiraFilho/PokedexNFF" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/PokedexNFF/blob/master/src/image/Pokedex-Homepage.gif" width=240></a></td>
@@ -40,10 +41,13 @@ Frontend Developer - Loading! Lol
     <td><a href="https://github.com/NobertoFerreiraFilho/BarberShopWebsite" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/BarberShopWebsite/blob/master/images/barbershop-alura.gif" width=240></a></td>
   </tr>
  </table>
+</div>
 <br/>
 
 ###  **📈 How about some stats**
-<div align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nobertoferreirafilho&show_icons=true&theme=merko" alt="nobertoferreirafilho" /></div>
+<div align="left">&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nobertoferreirafilho&show_icons=true&theme=merko" alt="nobertoferreirafilho" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobertoferreirafilho&layout=compact&theme=merko" alt="nobertoferreirafilho" />
+</div>
 <br/>
-  
   
