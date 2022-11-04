@@ -33,19 +33,26 @@ Frontend Developer
 ![Netlify](https://img.shields.io/badge/Netlify-black?logo=netlify)
 ![Git](https://img.shields.io/badge/Git-black?logo=git) 
 
-### **My Projects:**
+### **My Autoral Projects:**
 <div align="center">
 <table>
   <tr>
     <td><a href="https://github.com/NobertoFerreiraFilho/PokedexNFF" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/PokedexNFF/blob/master/src/image/Pokedex-Homepage.gif" width=240></a></td>
     <td><a href="https://github.com/NobertoFerreiraFilho/Responsive-React-Navbar" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/Responsive-React-Navbar/blob/main/public/NavBar.gif" width=240></a></td>
-    <td><a href="https://github.com/NobertoFerreiraFilho/BarberShopWebsite" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/BarberShopWebsite/blob/master/images/barbershop-alura.gif" width=240></a></td>
    </tr>
+   </table>
+</div>
+  
+### **My Guided Projects (Courses excercises)**
+<div align="center">  
+  <table>
   <tr>
+    <td><a href="https://github.com/NobertoFerreiraFilho/BarberShopWebsite" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/BarberShopWebsite/blob/master/images/barbershop-alura.gif" width=240></a></td>
     <td><a href="https://github.com/NobertoFerreiraFilho/skateApp-flexbox-grid" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/skateApp-flexbox-grid/blob/master/assets/img/HZC-SkateApp_1__AdobeExpress.gif" width=240></a></td>
   </tr>
  </table>
 </div>
+
 <br/>
 
 ###  **📈 How about some stats**
