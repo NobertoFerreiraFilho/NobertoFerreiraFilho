@@ -50,8 +50,8 @@ Frontend Developer
 
 ###  **📈 How about some stats**
 <div align="left">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nobertoferreirafilho&show_icons=true&theme=merko" alt="nobertoferreirafilho" height=180px />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobertoferreirafilho&layout=compact&theme=merko" alt="nobertoferreirafilho" height=180px />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nobertoferreirafilho&show_icons=true&theme=merko" alt="nobertoferreirafilho" height=150px />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobertoferreirafilho&layout=compact&theme=merko" alt="nobertoferreirafilho" height=150px />
 </div>
 <br/>
   
