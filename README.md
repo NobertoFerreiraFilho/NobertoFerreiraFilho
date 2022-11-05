@@ -37,8 +37,8 @@ Frontend Developer
 <div align="center">
 <table>
   <tr>
-    <td><a href="https://github.com/NobertoFerreiraFilho/PokedexNFF" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/PokedexNFF/blob/master/src/image/Pokedex-Homepage.gif" width=240></a></td>
-    <td><a href="https://github.com/NobertoFerreiraFilho/Responsive-React-Navbar" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/Responsive-React-Navbar/blob/main/public/NavBar.gif" width=240></a></td>
+    <td align='center'><p>Pokedex with React</p><a href="https://github.com/NobertoFerreiraFilho/PokedexNFF" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/PokedexNFF/blob/master/src/image/Pokedex-Homepage.gif" width=240></a></td>
+    <td align='center'><p>Responsive Nav with React</p><a href="https://github.com/NobertoFerreiraFilho/Responsive-React-Navbar" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/Responsive-React-Navbar/blob/main/public/NavBar.gif" width=240></a></td>
    </tr>
    </table>
 </div>
@@ -47,8 +47,8 @@ Frontend Developer
 <div align="center">  
   <table>
   <tr>
-    <td><a href="https://github.com/NobertoFerreiraFilho/BarberShopWebsite" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/BarberShopWebsite/blob/master/images/barbershop-alura.gif" width=240></a></td>
-    <td><a href="https://github.com/NobertoFerreiraFilho/skateApp-flexbox-grid" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/skateApp-flexbox-grid/blob/master/assets/img/HZC-SkateApp_1__AdobeExpress.gif" width=240></a></td>
+    <td align='center'><p>Website with HTML/CSS</p><a href="https://github.com/NobertoFerreiraFilho/BarberShopWebsite" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/BarberShopWebsite/blob/master/images/barbershop-alura.gif" width=240></a></td>
+    <td align='center' ><p>Responsive App - Flexbox/Grid</p><a href="https://github.com/NobertoFerreiraFilho/skateApp-flexbox-grid" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/skateApp-flexbox-grid/blob/master/assets/img/HZC-SkateApp_1__AdobeExpress.gif" width=240></a></td>
   </tr>
  </table>
 </div>
@@ -56,7 +56,7 @@ Frontend Developer
 <br/>
 
 ###  **📈 How about some stats**
-<div align="left">&nbsp;
+<div align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nobertoferreirafilho&show_icons=true&theme=merko" alt="nobertoferreirafilho" height=150px />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobertoferreirafilho&layout=compact&theme=merko" alt="nobertoferreirafilho" height=150px />
 </div>
