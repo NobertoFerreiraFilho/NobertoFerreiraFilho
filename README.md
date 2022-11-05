@@ -39,7 +39,7 @@ Frontend Developer
   <tr>
     <td align='center'><p>Pokedex with React</p><a href="https://github.com/NobertoFerreiraFilho/PokedexNFF" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/PokedexNFF/blob/master/src/image/Pokedex-Homepage.gif" width=240></a></td>
     <td align='center'><p>Responsive Nav with React</p><a href="https://github.com/NobertoFerreiraFilho/Responsive-React-Navbar" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/Responsive-React-Navbar/blob/main/public/NavBar.gif" width=240></a></td>
-    <td align='center'><p>Netflix Clone with CSS/HTML</p><a href="https://github.com/NobertoFerreiraFilho/Netflix-Clone-page" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/Netflix-Clone-page/blob/master/img/Netflix-clone1.gif" width=240></a></td>
+    <td align='center'><p>Netflix Clone with HTML/CSS</p><a href="https://github.com/NobertoFerreiraFilho/Netflix-Clone-page" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/Netflix-Clone-page/blob/master/img/Netflix-clone1.gif" width=240></a></td>
    </tr>
    </table>
 </div>
