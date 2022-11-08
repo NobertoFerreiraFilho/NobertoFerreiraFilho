@@ -27,6 +27,7 @@ Frontend Developer
 ![Font-Awesome](https://img.shields.io/badge/Font%20awesome-black?logo=font-awesome)
 ![Flex-Box](https://img.shields.io/badge/flex%20box-black?logo=flex-box)
 ![CSS-GRID](https://img.shields.io/badge/GRID-black?logo=GRID)
+![FIGMA](https://img.shields.io/badge/FIGMA-black?logo=FIGMA)
 
 🛠 **TOOLS** <br />
 ![VsCode](https://img.shields.io/badge/VSCode-black?logo=visual-studio-code)
