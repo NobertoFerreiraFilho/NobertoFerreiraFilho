@@ -22,12 +22,12 @@ Frontend Developer
 ![JavaScript](https://img.shields.io/badge/Javascript-black?logo=javascript)
 ![CSS3](https://img.shields.io/badge/CSS3-black?logo=CSS3)
 ![HTML5](https://img.shields.io/badge/HTML5-black?logo=HTML5)
+![FIGMA](https://img.shields.io/badge/FIGMA-black?logo=FIGMA)
 ![Styled Components](https://img.shields.io/badge/Styled%20Components-black?logo=styled-components)
 ![React-Router](https://img.shields.io/badge/React%20Router-black?logo=react-router)
 ![Font-Awesome](https://img.shields.io/badge/Font%20awesome-black?logo=font-awesome)
-![Flex-Box](https://img.shields.io/badge/flex%20box-black?logo=flex-box)
 ![CSS-GRID](https://img.shields.io/badge/GRID-black?logo=GRID)
-![FIGMA](https://img.shields.io/badge/FIGMA-black?logo=FIGMA)
+![Flex-Box](https://img.shields.io/badge/Flex%20Box-black?logo=Flexbox)
 
 🛠 **TOOLS** <br />
 ![VsCode](https://img.shields.io/badge/VSCode-black?logo=visual-studio-code)
