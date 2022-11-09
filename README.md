@@ -1,6 +1,7 @@
-## Hi there 👋 I'm Noberto Ferreira filho!
+## Hi there 👋 I'm Noberto Ferreira Filho!
 
-Frontend Developer
+I'm from Brazil and i just started studying coding, first choice? <em><strong>Frontend Developer!!</strong></em> So, i've been studing since august.22 and that's the results so far. I hope you enjoy and have fun!!
+
 
 ![Views Counter](https://komarev.com/ghpvc/?username=NobertoFerreiraFilho)
 
