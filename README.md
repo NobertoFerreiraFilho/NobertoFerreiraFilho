@@ -29,6 +29,7 @@ I'm from Brazil and i just started studying coding, first choice? <em><strong>Fr
 ![Font-Awesome](https://img.shields.io/badge/Font%20awesome-black?logo=font-awesome)
 ![CSS-GRID](https://img.shields.io/badge/GRID-black?logo=GRID)
 ![Flex-Box](https://img.shields.io/badge/Flex%20Box-black?logo=Flexbox)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?logo=Bootstrap)
 
 🛠 **TOOLS** <br />
 ![VsCode](https://img.shields.io/badge/VSCode-black?logo=visual-studio-code)
