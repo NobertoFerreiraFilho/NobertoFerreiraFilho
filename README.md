@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Noberto Ferreira Filho!
 
-I'm from Brazil and i just started studying coding, first choice? <em><strong>Frontend Developer!!</strong></em> So, i've been studing since august.22 and that's the results so far. I hope you enjoy and have fun!!
+I'm from Brazil and i just started studying coding, first choice? <em><strong>Frontend Developer!!</strong></em> So, I've been studing since august.22 and that's the results so far. I hope you enjoy and have fun!!
 
 
 ![Views Counter](https://komarev.com/ghpvc/?username=NobertoFerreiraFilho)
@@ -12,9 +12,9 @@ I'm from Brazil and i just started studying coding, first choice? <em><strong>Fr
 ![ReactJs](https://img.shields.io/badge/ReactJs-black?logo=react)
 
 - 🔭 I’m currently working on improving my coding skills!
-- 🌱 I’m currently learning Javascript and REACT.Js ... Next step, Typescript(not started) and Redux.
-- 👯 I’m looking to collaborate on ReactJS Projects
-- 🤔 I’m looking for help with React.Js good practices. So, feel free to explore my projects and tell what I could've done better!
+- 🌱 I’m currently practicing Javascript so i can advance to REACT.Js/Next.Js ... Next step, Typescript(not started).
+- 👯 I’m looking foward to collaborate on ReactJS Projects
+- 🤔 I’m looking for help with Javascript and React.Js basic concept and good practices. So, feel free to explore my projects and tell what I could've done better!
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/nobertofilho)**
 
 
