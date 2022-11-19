@@ -37,7 +37,7 @@ I'm from Brazil and i just started studying coding, first choice? <em><strong>Fr
 ![Netlify](https://img.shields.io/badge/Netlify-black?logo=netlify)
 ![Git](https://img.shields.io/badge/Git-black?logo=git) 
 
-### **My REACT Projects:**
+### **My Projects focused on REACT:**
 <div align="center">
 <table>
   <tr>
@@ -51,7 +51,7 @@ I'm from Brazil and i just started studying coding, first choice? <em><strong>Fr
 </div>
 <br/>
 
-### **My Projects focused on JS:**
+### **My Projects focused on JAVASCRIPT:**
 <div align="center">
 <table>
   <tr>
