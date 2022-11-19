@@ -51,7 +51,21 @@ I'm from Brazil and i just started studying coding, first choice? <em><strong>Fr
 </div>
 <br/>
 
-### **My HTML/CSS/JS Projects:**
+### **My Projects focused on JS:**
+<div align="center">
+<table>
+  <tr>
+    <td align='center'><h6 font-size='5px'>Noberto S.E. | A SoundEffects keyboard with JS</h6><a href="https://github.com/NobertoFerreiraFilho/Noberto-Sounf-Effects-JS" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/Noberto-Sounf-Effects-JS/blob/main/images/home.png" width=240></a></td>
+    <td align='center'><h6 font-size='5px'>NobertoNutri | Client list/form with JS</h6><a href="https://github.com/NobertoFerreiraFilho/Noberto-nutri-form-ajax" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/Noberto-nutri-form-ajax/blob/main/img/form.png" width=240></a></td>
+  </tr>
+
+   </tr>
+</table>
+</div>
+<br/>
+
+
+### **My Projects focused on HTML/CSS:**
 
 <div align="center">  
 <table>
