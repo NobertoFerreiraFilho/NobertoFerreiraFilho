@@ -55,11 +55,10 @@ I'm from Brazil and i just started studying coding, first choice? <em><strong>Fr
 <div align="center">
 <table>
   <tr>
-    <td align='center'><h6 font-size='5px'>Noberto S.E. | A SoundEffects keyboard with JS</h6><a href="https://github.com/NobertoFerreiraFilho/Noberto-Sounf-Effects-JS" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/Noberto-Sounf-Effects-JS/blob/main/images/home.png" width=240></a></td>
+    <td align='center'><h6 font-size='5px'>A SoundEffects keyboard with JS</h6><a href="https://github.com/NobertoFerreiraFilho/Noberto-Sounf-Effects-JS" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/Noberto-Sounf-Effects-JS/blob/main/images/home.png" width=240></a></td>
     <td align='center'><h6 font-size='5px'>NobertoNutri | Client list/form with JS</h6><a href="https://github.com/NobertoFerreiraFilho/Noberto-nutri-form-ajax" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/Noberto-nutri-form-ajax/blob/main/img/form.png" width=240></a></td>
+    <td align='center'><h6 font-size='5px'>NFDev | Form validation with JS</h6><a href="https://github.com/NobertoFerreiraFilho/form-validation" target="_blank"><img src="https://github.com/NobertoFerreiraFilho/form-validation/blob/main/img/project/cadastro-dark.png" width=220></a></td>
   </tr>
-
-   </tr>
 </table>
 </div>
 <br/>
